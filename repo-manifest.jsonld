@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Nixtla/mlforecast/commit/e3f057376ac3d9140069f44b3937107dc3cc4ff4",
       "git:hexsha": "e3f057376ac3d9140069f44b3937107dc3cc4ff4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Nixtla/mlforecast/commit/c51359175a87beb9a4e19c43bf929c7d2c7a9953",
